@@ -1,0 +1,41 @@
+
+.registreren{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgb(231, 231, 231);
+    width: 300px;
+    margin-top: 200px;
+    height: 500px;
+  }
+  
+  .registreren ul  {
+      color: black;
+      list-style-type: none;
+      font-size: 17px;
+      padding: 9px 20px;
+      background-color: rgb(231, 231, 231);
+      cursor: pointer;
+      float: left;
+      display: flex;
+  }
+  
+  .registreren li a{
+      list-style-type: none;
+      color: black;
+  }
+  
+  .registreren input{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    padding-top: 5px;
+  }
+  
+  .registreren h1{
+    text-align: center;
+    padding-bottom: 20px;
+  }
+  
+  
