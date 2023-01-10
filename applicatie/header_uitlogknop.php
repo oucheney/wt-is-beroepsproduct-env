@@ -19,7 +19,7 @@
                 <li><a href="vluchten.php">Vluchten</a></li>
                 <li><a href="privacyverklaring.php">Privacyverklaring</a></li>
                 <li><a href="contact.php">Contact</a></li>
-                <li><a href="Login.php">Login</a></li>
+                <li><a href="login.php">Loguit</a></li>
             </ul>
         </nav>
     </header>

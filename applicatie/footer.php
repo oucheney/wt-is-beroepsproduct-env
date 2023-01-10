@@ -6,10 +6,10 @@
 <footer>
         <div class="Footer">
             <ul>
-                <li><a href="vluchten.html">Vluchten</a></li>
-                <li><a href="checkin.html">Check-In</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="Privacyverklaring.html">Privacyverklaring</a></li>
+                <li><a href="vluchten.php">Vluchten</a></li>
+                <li><a href="checkin.php">Check-In</a></li>
+                <li><a href="contact.php">Contact</a></li>
+                <li><a href="Privacyverklaring.php">Privacyverklaring</a></li>
             </ul>
         </div>
     </footer>

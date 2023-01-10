@@ -1,28 +1,13 @@
 <!DOCTYPE html>
 <html lang="nl">
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="CSS/Style.css">
-    <link rel="stylesheet" href="CSS/Normalize.css">
-    <title>Gelre Airport></title>
-</head>
+<?php
+require_once 'db_connectie.php';
+require_once 'sessie.php';
+include 'header_uitlogknop.php';
+?>
 
 <body>
-    <header>
-        <nav class="navigation-bar">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="checkin.html">Check-In</a></li>
-                <li><a href="vluchten.html">Vluchten</a></li>
-                <li><a href="privacyverklaring.html">Privacyverklaring</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="Login.html">Login</a></li>
-            </ul>
-        </nav>
-    </header>
     <div class="BeginStuk">
         <h1>Welkom bij Gelre Airpord</h1>
         <h2>Voor de leukste en voordeligste reizen boek hier</h2>
@@ -143,16 +128,9 @@
             </article>
     </main>
     </div>
-    <footer>
-        <div class="Footer">
-            <ul>
-                <li><a href="vluchten.html">Vluchten</a></li>
-                <li><a href="checkin.html">Check-In</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li><a href="Privacyverklaring.html">Privacyverklaring</a></li>
-            </ul>
-        </div>
-    </footer>
+<?php
+    include 'footer.php';
+?>
 </body>
 
 </html>

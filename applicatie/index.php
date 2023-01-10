@@ -8,6 +8,7 @@
 include 'header.php';
 ?>
 
+<body>
     <div class="BeginStuk">
         <h1>Welkom bij Gelre Airpord</h1>
         <h2>Voor de leukste en voordeligste reizen boek hier</h2>
@@ -136,9 +137,9 @@ include 'header.php';
 
         </article>
     </main>
-    <?php
-include 'footer.php';
+    </body>
+
+<?php
+    include 'footer.php';
 ?>
-
-
 </html>
