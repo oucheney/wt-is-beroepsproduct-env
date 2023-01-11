@@ -34,7 +34,7 @@ include 'db_connectie.php';
         <h1>Onze vluchten</h1>
         <h2>Zie hier al onze vluchten.</h2>
     <article>
-                <form action="index.php">
+                <form action="vluchtenzoeken.php">
                         <label for="vluchtnummer">Vluchtnummer:</label>
                         <input name="vluchtnummer" type="text" required placeholder="" id="vluchtnummer">
                         <input type="submit" value="Zoeken">

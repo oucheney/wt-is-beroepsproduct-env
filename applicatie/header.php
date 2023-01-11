@@ -17,6 +17,8 @@
                 <li><a href="index.php">Home</a></li>
                 <li><a href="checkin.php">Check-In</a></li>
                 <li><a href="vluchten.php">Vluchten</a></li>
+                <li><a href="vlucht_toevoegen.php">Vlucht toevoegen</a></li>
+                <li><a href="boeken.php">Boeken</a></li>
                 <li><a href="privacyverklaring.php">Privacyverklaring</a></li>
                 <li><a href="contact.php">Contact</a></li>
                 <li><a href="Login.php">Login</a></li>
